@@ -1,4 +1,4 @@
-export const BASE_URL = 'https://backend-product-catalog.onrender.com';
+export const BASE_URL = 'https://express-product-catalog.onrender.com';
 
 type RequestMethod = 'GET' | 'POST' | 'PATCH' | 'DELETE';
 
