@@ -4,6 +4,8 @@
 
 [FIGMA MOCKUP](<https://www.figma.com/file/T5ttF21UnT6RRmCQQaZc6L/Phone-catalog-(V2)-Original?type=design&node-id=0-1&mode=design&t=NP3TpMmy0h9Usmnb-0>)
 
+[BACKEND REPO](https://github.com/0o22/express-product-catalog)
+
 Welcome to the Nice Gadgets Apple Store! This web application serves as a platform for showcasing and purchasing the latest and most innovative gadgets. Whether you're a tech enthusiast or simply looking for the coolest gadgets on the market, our platform has you covered.
 
 ## Table of Contents
